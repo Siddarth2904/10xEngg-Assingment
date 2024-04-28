@@ -31,5 +31,5 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
     $ npm start
 
-## Add .env
-Add varaibles 
+## Add environment variables
+create .env file and add varibles
