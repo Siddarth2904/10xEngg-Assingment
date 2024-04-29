@@ -27,9 +27,9 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
     $ cd PROJECT_TITLE
     $ npm install
 
+## Add environment variables
+create .env file and add varibles
+
 ## Running the project
 
     $ npm start
-
-## Add environment variables
-create .env file and add varibles
